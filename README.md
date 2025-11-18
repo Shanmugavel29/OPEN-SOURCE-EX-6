@@ -1,8 +1,9 @@
 # OPEN-SOURCE-EX-6
-
-## NAME : ADHITHIYAN K
-## REG NO : 212222230006
+```
+## NAME : SHANMUGAVEL RM
+## REG NO : 212222230142
 ## DEPT : AIDS
+```
 # STEPS INVOLVED:
 ### STEP 1 : sudo -i
 ### STEP 2 : useradd -u 1326 alies
